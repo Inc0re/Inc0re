@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi, I`m Daniil👋
 
-<!--
-**Inc0re/Inc0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About me
 
-Here are some ideas to get you started:
+💻 I'm Web-developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 [My projects](https://github.com/Inc0re?tab=repositories)
+
+🤝 I like to work in team
+
+🧹 My goal is to write clean code
+
+🤯 New technologies are my passion
+
+### 🛠️ Technologies and tools I use
+
+
+
+### 📝 Contact me
+
+- [Telegram](https://t.me/Inc0re)
+- [borovovdaniil@yandex.ru](mailto:borovovdaniil@yandex.ru)
+- [LinkedIn](https://www.linkedin.com/in/daniil-borovov-689a05254/)

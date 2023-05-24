@@ -13,7 +13,7 @@ Hi, I`m Daniil👋
 🤯 New technologies are my passion
 
 ### 🛠️ Technologies and tools I use
-<div style="display: flex;">
+<a href="#" style="display: flex;">
 <img title="JS" alt="JS" src="./icons/javascript-color.svg" width="50" style="pointer-events: none;">
 <img title="CSS3" alt="CSS3" src="./icons/css3-color.svg" width="50" style="pointer-events: none;">
 <img title="HTML5" alt="HTML5" src="./icons/html5-color.svg" width="50" style="pointer-events: none;">
@@ -26,7 +26,7 @@ Hi, I`m Daniil👋
 <img title="Webpack" alt="Webpack" src="./icons/webpack-color.svg" width="50" style="pointer-events: none;">
 <img title="BEM" alt="BEM" src="./icons/bem.svg" width="50" style="pointer-events: none;">
 <img title="VS Code" alt="VS Code" src="./icons/visualstudiocode-color.svg" width="50" style="pointer-events: none;">
-</div>
+</a>
 
 
 ### 📝 Contact me

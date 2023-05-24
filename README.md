@@ -1,6 +1,6 @@
-dHi, I`m Daniil👋
+# Hi, I`m Daniil👋
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
 💻 I'm Web-developer
 
@@ -12,7 +12,8 @@ dHi, I`m Daniil👋
 
 🤯 New technologies are my passion
 
-### 🛠️ Technologies and tools I use
+## 🛠️ Technologies and tools I use
+
 <div>
 <img title="JS" alt="JS" src="./icons/javascript-color.svg" width="50">
 <img title="CSS3" alt="CSS3" src="./icons/css3-color.svg" width="50" >
@@ -28,7 +29,7 @@ dHi, I`m Daniil👋
 <img title="VS Code" alt="VS Code" src="./icons/visualstudiocode-color.svg" width="50" >
 </div>
 
-### 📝 Contact me
+## 📝 Contact me
 
 <a href="https://t.me/Inc0re" target="_blank" style="text-decoration: none;">
   <img alt="Telegram" src="./icons/telegram-color.svg" width="50">

@@ -1,4 +1,4 @@
-Hi, I`m Daniil👋
+dHi, I`m Daniil👋
 
 ### 👨‍💻 About me
 
@@ -13,21 +13,20 @@ Hi, I`m Daniil👋
 🤯 New technologies are my passion
 
 ### 🛠️ Technologies and tools I use
-<a href="#" style="display: flex; text-decoration: none;">
+<div>
 <img title="JS" alt="JS" src="./icons/javascript-color.svg" width="50">
-<img title="CSS3" alt="CSS3" src="./icons/css3-color.svg" width="50" style="pointer-events: none;">
-<img title="HTML5" alt="HTML5" src="./icons/html5-color.svg" width="50" style="pointer-events: none;">
-<img title="React" alt="React" src="./icons/react-color.svg" width="50" style="pointer-events: none;">
-<img title="React Router" alt="React Router" src="./icons/reactrouter-color.svg" width="50" style="pointer-events: none;>
-<img title="Node.js" alt="Node.js" src="./icons/nodedotjs-color.svg" width="50" style="pointer-events: none;">
-<img title="Express.js" alt="Express.js" src="./icons/express-color.svg" width="50" style="pointer-events: none;">
-<img title="MongoDB" alt="MongoDB" src="./icons/mongodb-color.svg" width="50" style="pointer-events: none;">
-<img title="Mongoose" alt="Mongoose" src="./icons/mongoose-color.svg" width="50" style="pointer-events: none;">
-<img title="Webpack" alt="Webpack" src="./icons/webpack-color.svg" width="50" style="pointer-events: none;">
-<img title="BEM" alt="BEM" src="./icons/bem.svg" width="50" style="pointer-events: none;">
-<img title="VS Code" alt="VS Code" src="./icons/visualstudiocode-color.svg" width="50" style="pointer-events: none;">
-</a>
-
+<img title="CSS3" alt="CSS3" src="./icons/css3-color.svg" width="50" >
+<img title="HTML5" alt="HTML5" src="./icons/html5-color.svg" width="50" >
+<img title="React" alt="React" src="./icons/react-color.svg" width="50" >
+<img title="React Router" alt="React Router" src="./icons/reactrouter-color.svg" width="50">
+<img title="Node.js" alt="Node.js" src="./icons/nodedotjs-color.svg" width="50" >
+<img title="Express.js" alt="Express.js" src="./icons/express-color.svg" width="50" >
+<img title="MongoDB" alt="MongoDB" src="./icons/mongodb-color.svg" width="50" >
+<img title="Mongoose" alt="Mongoose" src="./icons/mongoose-color.svg" width="50" >
+<img title="Webpack" alt="Webpack" src="./icons/webpack-color.svg" width="50" >
+<img title="BEM" alt="BEM" src="./icons/bem.svg" width="50" >
+<img title="VS Code" alt="VS Code" src="./icons/visualstudiocode-color.svg" width="50" >
+</div>
 
 ### 📝 Contact me
 

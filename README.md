@@ -18,7 +18,7 @@ Hi, I`m Daniil👋
 <img title="CSS3" alt="CSS3" src="./icons/css3-color.svg" width="50" style="pointer-events: none;">
 <img title="HTML5" alt="HTML5" src="./icons/html5-color.svg" width="50" style="pointer-events: none;">
 <img title="React" alt="React" src="./icons/react-color.svg" width="50" style="pointer-events: none;">
-<img title="React Router" alt="React Router" src="./icons/reactrouter-color.svg" width="50" style="pointer-events: none title="";">
+<img title="React Router" alt="React Router" src="./icons/reactrouter-color.svg" width="50" style="pointer-events: none;>
 <img title="Node.js" alt="Node.js" src="./icons/nodedotjs-color.svg" width="50" style="pointer-events: none;">
 <img title="Express.js" alt="Express.js" src="./icons/express-color.svg" width="50" style="pointer-events: none;">
 <img title="MongoDB" alt="MongoDB" src="./icons/mongodb-color.svg" width="50" style="pointer-events: none;">
